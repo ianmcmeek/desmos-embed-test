@@ -16,3 +16,6 @@ Oops, wrong order...(?)
   var elt = document.getElementById('calculator');
   var calculator = Desmos.GraphingCalculator(elt);
 </script>
+
+<!--- trying with _includes for a pre-built graph --->
+{% include clickableSquares.html %}
