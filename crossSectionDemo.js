@@ -1,4 +1,5 @@
 // from https://www.desmos.com/calculator/0u8v4smeha (static snapshot)
+var elt = document.getElementById('calculator');
 var state = {
     "version": 11,
     "randomSeed": "b9850f1f4a63de9ec9d11a4c602ffa83",
